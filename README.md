@@ -1,5 +1,7 @@
 # 🌟 LUX - Learning Unleashed eXcellence  
 
+![Python Version](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange) ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)  
+
 ![LUX Logo](imgs/logo.webp)  
 
 ## 📚 About the Project  
@@ -72,8 +74,8 @@ Follow these steps to run the project locally:
 - **Python**: Core programming language  
 - **SQLite**: Lightweight and efficient database  
 - **Libraries**:  
-  - [Py-Telegram-Bot](https://python-telegram-bot.org/) 
-  - [Matplotlib](https://matplotlib.org/) (for chart generation)  
+  - [Py-Telegram-Bot](https://python-telegram-bot.org/) (for UI)
+  - [Matplotlib](https://matplotlib.org/) (for chart generation
 
 ---
 
@@ -86,3 +88,4 @@ We welcome contributions! Feel free to open **issues** or submit a **pull reques
 ## 📄 License  
 
 This project is licensed under the [MIT License](LICENSE).  
+
