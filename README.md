@@ -79,6 +79,14 @@ Follow these steps to run the project locally:
 
 ---
 
+## 🎥 Demo Video
+
+
+
+https://github.com/user-attachments/assets/ef5ae534-93e0-4e52-9c54-8b2dec6df9ab
+
+
+
 ## 🤝 Contributing  
 
 We welcome contributions! Feel free to open **issues** or submit a **pull request** to enhance the project.  
